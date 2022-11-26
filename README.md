@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Related links
-* [YouTube](https://www.youtube.com/greggallardo)
-* [Web Page](https://www.greggallardo.com)
+* [Home Page](https://www.greggallardo.com)
+* [YouTube Channel](https://www.youtube.com/greggallardo)
