@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 Related links
 * [YouTube](https://www.youtube.com/greggallardo)
-* [Mastodon](https://mammut.greggallardo.com/@greg)
+* [Web Page](https://www.greggallardo.com)
